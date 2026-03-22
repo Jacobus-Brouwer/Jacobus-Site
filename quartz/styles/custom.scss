@@ -393,6 +393,24 @@ article {
   box-shadow: 0 2px 12px rgba(0,0,0,0.04);
 }
 
+/* Graph pinned inside the content card */
 .graph {
-  border: none !important;
+  position: fixed;
+  bottom: 2rem;
+  right: calc((100vw - 100%) / 2 + 2rem);
+  width: 220px;
+  height: 220px;
+  background: #FFFFFF;
+  border: 1.5px solid #1B4965;
+  border-radius: 12px;
+  padding: 0.5rem;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  z-index: 5;
+  overflow: hidden;
+}
+
+@media (max-width: 900px) {
+  .graph {
+    display: none;
+  }
 }
