@@ -67,17 +67,16 @@ body {
   padding-right: 120px;
   background: #C2DFE3;
 }
-
 #quartz-root {
-  background: #FFFFFF !important;
-  min-height: 100vh;
-  border-left: 2px solid #1B4965;
-  border-right: 2px solid #1B4965;
-  border-radius: 16px;
-  padding: 1rem 0.5rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  overflow: hidden;
+background: #FFFFFF !important;
+min-height: 100vh;
+border-left: 2px solid #1B4965;
+border-right: 2px solid #1B4965;
+border-radius: 16px;
+padding: 0.5rem 0;
+margin-top: 1rem;
+margin-bottom: 1rem;
+overflow: hidden;
 }
 
 /* Hide breadcrumb on home page */
