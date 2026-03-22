@@ -396,23 +396,19 @@ article {
 }
 
 
-/* Right sidebar with graph */
-.right.sidebar {
-  position: sticky;
-  top: 1.5rem;
-  height: fit-content;
-  padding: 0;
-  margin: 0;
-}
-
+/* Graph fixed top-right inside the card */
 .graph {
-  width: 220px;
-  height: 220px;
+  position: fixed;
+  top: 2rem;
+  right: calc(120px + 2rem);
+  width: 180px;
+  height: 180px;
   background: #FFFFFF;
   border: 1.5px solid #1B4965;
   border-radius: 12px;
   padding: 0.5rem;
   box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  z-index: 10;
   overflow: hidden;
 }
 
@@ -420,21 +416,8 @@ article {
   display: none;
 }
 
-/* Push text content to the left to make room */
-.center {
-  max-width: 65%;
-}
-
 @media (max-width: 900px) {
-  .right.sidebar {
+  .graph {
     display: none;
   }
-  .center {
-    max-width: 100%;
-  }
-}
-
-/* Hide stray search box */
-.search {
-  display: none;
 }

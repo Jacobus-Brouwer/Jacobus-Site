@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     DoodleWaves(),
+    Component.Graph(),
   ],
   footer: Component.Footer({
     links: {
@@ -22,9 +23,7 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [],
   left: [],
-  right: [
-    Component.Graph(),
-  ],
+  right: [],
 }
 
 export const defaultListPageLayout: PageLayout = {
