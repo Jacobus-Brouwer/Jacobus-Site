@@ -20,9 +20,9 @@ Whether you want to talk about yacht design, collaborate on a project, or just s
 
 ## Find me online
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com) ← *update with your real email*
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) ← *update with your real profile*
-- **GitHub:** [github.com/your-username](https://github.com/your-username) ← *update with your real username*
+- [Email](mailto:henrybrouwer0@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/jacobus-brouwer-65a503207/) 
+- [github](https://github.com/Jacobus-Brouwer) 
 
 ---
 
