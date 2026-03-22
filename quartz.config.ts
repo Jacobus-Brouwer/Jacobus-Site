@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-GB",
-    baseUrl: "jacobus-brouwer.github.io/Jacobus-Site",,
+    baseUrl: "jacobus-brouwer.github.io/Jacobus-Site",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
