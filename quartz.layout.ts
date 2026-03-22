@@ -12,20 +12,15 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      "LinkedIn": "https://linkedin.com/in/your-profile",
-      "GitHub": "https://github.com/your-username",
-      "Email": "mailto:your.email@example.com",
+      "LinkedIn": "https://www.linkedin.com/in/jacobus-brouwer-65a503207/",
+      "GitHub": "https://github.com/Jacobus-Brouwer",
+      "Email": "mailto:henrybrouwer0@gmail.com",
     },
   }),
 }
 
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
-  ],
+  beforeBody: [],
   left: [
   ],
   right: [
@@ -34,13 +29,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Backlinks(),
   ],
 }
-
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-  ],
+  beforeBody: [],
   left: [
     Component.DesktopOnly(Component.Explorer()),
   ],
