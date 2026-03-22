@@ -8,11 +8,11 @@ tags: []
 
 
 <div class="custom-nav">
-  <a href="./">About</a>
-  <a href="./portfolio">Portfolio</a>
-  <a href="./blog">Blog</a>
-  <a href="./cv">CV</a>
-  <a href="./contact">Contact</a>
+  <a href="/Jacobus-Site/">About</a>
+  <a href="/Jacobus-Site/portfolio">Portfolio</a>
+  <a href="/Jacobus-Site/blog">Blog</a>
+  <a href="/Jacobus-Site/cv">CV</a>
+  <a href="/Jacobus-Site/contact">Contact</a>
 </div>
 
 ## About
