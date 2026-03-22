@@ -384,15 +384,7 @@ article {
 
 /* Graph sidebar - sticky on the right */
 .right.sidebar {
-  position: sticky;
-  top: 2rem;
-  height: fit-content;
-  background: #FFFFFF;
-  border: 1.5px solid #1B4965;
-  border-radius: 12px;
-  padding: 1rem;
-  margin-right: 1rem;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+  display: none !important;
 }
 
 
@@ -466,4 +458,15 @@ article h2::after {
 /* Remove any straight line above footer */
 .afterBody > hr, #quartz-body > hr {
   display: none;
+}
+hr {
+  border: none;
+  background: none;
+}
+
+/* Target any stray hr outside article */
+#quartz-body > hr,
+.page > hr,
+div > hr:not(article hr) {
+  display: none !important;
 }
