@@ -421,3 +421,49 @@ article {
     display: none;
   }
 }
+
+/* Hide the mystery box (likely backlinks or search) */
+.backlinks, .search, .toc, .spacer {
+  display: none !important;
+}
+
+/* Make all h2 underlines wavy instead of straight */
+article h2 {
+  border-bottom: none;
+  padding-bottom: 0.5rem;
+  position: relative;
+}
+
+article h2::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 12px;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 12' preserveAspectRatio='none'%3E%3Cpath d='M0,6 C8,6 12,2 20,2 C28,2 30,10 38,10 C46,10 50,2 58,2 C66,2 68,10 76,10 C84,10 88,2 96,2 C104,2 106,10 114,10 C122,10 126,2 134,2 C142,2 144,10 152,10 C160,10 164,2 172,2 C180,2 182,10 190,10 C198,10 200,6 200,6' fill='none' stroke='%231B4965' stroke-width='1.5' stroke-linecap='round' opacity='0.25'/%3E%3C/svg%3E") repeat-x;
+  background-size: 120px 12px;
+}
+
+/* Make the nav bar bottom line wavy */
+.custom-nav {
+  border-bottom: none;
+  position: relative;
+  padding-bottom: 1.8rem;
+}
+
+.custom-nav::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 5%;
+  right: 5%;
+  height: 12px;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 12' preserveAspectRatio='none'%3E%3Cpath d='M0,6 C8,6 12,2 20,2 C28,2 30,10 38,10 C46,10 50,2 58,2 C66,2 68,10 76,10 C84,10 88,2 96,2 C104,2 106,10 114,10 C122,10 126,2 134,2 C142,2 144,10 152,10 C160,10 164,2 172,2 C180,2 182,10 190,10 C198,10 200,6 200,6' fill='none' stroke='%231B4965' stroke-width='1.5' stroke-linecap='round' opacity='0.25'/%3E%3C/svg%3E") repeat-x;
+  background-size: 120px 12px;
+}
+
+/* Remove any straight line above footer */
+.afterBody > hr, #quartz-body > hr {
+  display: none;
+}
