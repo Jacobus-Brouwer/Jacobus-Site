@@ -1,54 +1,47 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Jacobus Brouwer",
+    pageTitleSuffix: " — Yacht & Powercraft Design",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    analytics: null,
+    locale: "en-GB",
+    baseUrl: "jacobusbrouwer.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Fraunces",
+        body: "DM Sans",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#FFFFFF",
+          lightgray: "#E2E2E2",
+          gray: "#8E8E8E",
+          darkgray: "#2B2B2B",
+          dark: "#0D1B2A",
+          secondary: "#1B4965",
+          tertiary: "#5FA8D3",
+          highlight: "rgba(27, 73, 101, 0.08)",
+          textHighlight: "#BEE9E8",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#0D1B2A",
+          lightgray: "#1B2A3A",
+          gray: "#607080",
+          darkgray: "#D0D8E0",
+          dark: "#E8EEF2",
+          secondary: "#5FA8D3",
+          tertiary: "#BEE9E8",
+          highlight: "rgba(95, 168, 211, 0.12)",
+          textHighlight: "#1B4965",
         },
       },
     },
@@ -64,9 +57,8 @@ const config: QuartzConfig = {
           light: "github-light",
           dark: "github-dark",
         },
-        keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlBlock: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
@@ -86,10 +78,7 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
-      Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
     ],
   },
 }
