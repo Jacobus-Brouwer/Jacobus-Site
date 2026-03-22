@@ -4,14 +4,8 @@ tags:
   - portfolio
   - design
 ---
+[[index|ABOUT]]   [[portfolio|PORTFOLIO]]   [[blog/index|BLOG]]   [[cv|CV]]    [[contact|CONTACT]]
 
-<div class="custom-nav">
-  [[index|ABOUT]]
-  [[portfolio|PORTFOLIO]]
-  [[blog/index|BLOG]]
-  [[cv|CV]]
-  [[contact|CONTACT]]
-</div>
 
 # Portfolio
 
