@@ -68,15 +68,15 @@ body {
   background: #C2DFE3;
 }
 #quartz-root {
-background: #FFFFFF !important;
-min-height: 100vh;
-border-left: 2px solid #1B4965;
-border-right: 2px solid #1B4965;
-border-radius: 16px;
-padding: 0.5rem 0;
-margin-top: 1rem;
-margin-bottom: 1rem;
-overflow: hidden;
+  background: #FFFFFF !important;
+  min-height: 100vh;
+  border-left: 2px solid #1B4965;
+  border-right: 2px solid #1B4965;
+  border-radius: 16px;
+  padding: 0.5rem 0;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  overflow: hidden;
 }
 
 /* Hide breadcrumb on home page */
@@ -364,4 +364,18 @@ footer a:hover {
 .dw-bg-layer {
   will-change: transform;
   backface-visibility: hidden;
+}
+/* Reduce Quartz internal spacing */
+.page > #quartz-body {
+  padding: 0 1rem;
+}
+
+.sidebar {
+  padding: 0;
+}
+
+article {
+  max-width: 700px;
+  margin: 0 auto;
+  animation: pageFadeIn 0.5s ease both;
 }
