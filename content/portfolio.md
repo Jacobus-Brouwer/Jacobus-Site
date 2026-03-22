@@ -23,7 +23,7 @@ A selection of projects from my studies in Yacht & Powercraft Design at Southamp
 
 **Semester 1** · Maxsurf, AutoCAD
 
-Complete lines plan for a 5.21 m dory hull — profile, half-breadth plan, body plan, and full hydrostatic analysis.
+Complete lines plan for a 5.21 m dory hull — profile, half-breadth plan, body plan, and full hydrostatic analysis. I only scored 76% on this assignment but i still quite enjoy this boat. I see where my Linesplan falls short. for example the view below the half breadth vie showing a second half breadth from top down (The view im trying to convey) is not professional and the only things that should have been in this view is the Section area curve. This boat was essentially completely unstable, GM 0.06 m or 6 cm, which was either due to my Excel calculations being incorrect or the boat being less beamy than any other dory I found during my parametric study. 
 
 ![[dory-lines-plan.png]]
 
@@ -51,7 +51,7 @@ The model at 0° and 5° heel — showing the pendulum deflection used to measur
 
 ![[catamaran-experiment-drawing.png]]
 
-General arrangement drawing showing Part A (solid ballast) and Part B (solid + water ballast) configurations, with front elevation, side elevation, and plan views.
+General arrangement drawing showing Part A (solid ballast) and Part B (solid + water ballast) configurations, with front elevation, side elevation, and plan views. (Images Made by Me in autocad). Once my report is completed the pdf will be available here.
 
 | Metric | Theoretical | Experimental | Discrepancy |
 |---|---|---|---|
@@ -65,28 +65,29 @@ General arrangement drawing showing Part A (solid ballast) and Part B (solid + w
 
 **In progress** · Maxsurf, AutoCAD
 
-Rating-rule-compliant model sailing yacht — hull design and hydrostatics complete in Maxsurf, now producing AutoCAD technical drawings (Lines Plan, Sail & Keel Plan, Construction Plan).
+Rating-rule-compliant model sailing yacht — hull design and hydrostatics complete in Maxsurf, now producing AutoCAD technical drawings (Lines Plan, Sail & Keel Plan, Construction Plan). Unfortunately the amount of time left until the end of the year has meant we weren't able to produce and race our designs and instead we are making one design models out of wood. although we get to design the keel and sail plan. 
 
 *Images coming soon*
 
-| Parameter | Value |
-|---|---|
-| LOA | 78 cm |
-| LWL | 66 cm |
-| BOA | 19.5 cm |
-| Sail area | 2916 cm² |
-| Displacement | 2167 g |
-| Cp | 0.52 |
-| Keel draft | 35 cm |
-| Ballast ratio | 0.70 |
-| GM | 0.232 m |
-| Rating (L + √SA) / 1.8 | 70.0 ✓ |
+| Parameter                | Value    |
+| ------------------------ | -------- |
+| LOA                      | 78 cm    |
+| LWL                      | 66 cm    |
+| L                        | 72 cm    |
+| BOA                      | 19.5 cm  |
+| Sail area                | 2916 cm² |
+| Displacement             | 2167 g   |
+| Cp                       | 0.52     |
+| Keel draft               | 35 cm    |
+| Ballast ratio            | 0.70     |
+| GM                       | 0.232 m  |
+| Rating (L + √SA) / 1.8 = | 70.0     |
 
 ---
 
 ## More projects coming soon
 
-Further work in resistance & propulsion, structural design, and concept studies will be added as I progress through the programme.
+Further work in resistance & propulsion, structural design, Marine Materials, Production techniques and concept studies will be added as I progress through the programme. 
 
 ---
 

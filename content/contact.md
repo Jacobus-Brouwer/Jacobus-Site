@@ -22,7 +22,7 @@ Whether you want to talk about yacht design, collaborate on a project, or just s
 
 - [Email](mailto:henrybrouwer0@gmail.com) 
 - [LinkedIn](https://www.linkedin.com/in/jacobus-brouwer-65a503207/) 
-- [github](https://github.com/Jacobus-Brouwer) 
+- [Github](https://github.com/Jacobus-Brouwer) 
 
 ---
 
@@ -31,5 +31,3 @@ Whether you want to talk about yacht design, collaborate on a project, or just s
 Southampton, UK — studying at Southampton Solent University
 
 ---
-
-> *I try to respond within a couple of days. If it's urgent, email is usually fastest.*

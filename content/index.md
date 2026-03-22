@@ -4,6 +4,7 @@ aliases:
   - home
 tags: []
 ---
+# Jacobus Brouwer
 
 <div class="custom-nav">
   <a href="./">About</a>
@@ -17,11 +18,9 @@ tags: []
 
 I'm Jacobus Brouwer, a first-year **Yacht & Powercraft Design** student at [Southampton Solent University](https://www.solent.ac.uk/).
 
-I design vessels that are as elegant as they are seaworthy — working across the full design spiral from initial concept through hydrostatic analysis to production-ready technical drawings. My toolkit spans **Maxsurf** for hull modelling, **AutoCAD** for technical drafting, and hands-on model testing in the lab.
+I design vessels that hopefully make you as happy as they do me — working across the full design spiral from initial concept through hydrostatic analysis to production-ready technical drawings. Currently my toolkit spans **Maxsurf** for hull modelling, **AutoCAD** for technical drafting, and hands-on model testing in the lab.
 
-I'm building this site to share my work, document my learning, and connect with others in the marine design world.
-
-*Add your headshot here: place a photo in `content/` and add `![[your-photo.jpg|200]]` above this section.*
+I'm building this site to share my work, document my learning, and connect with others in the maritime engineering and yacht design world.
 
 ---
 
