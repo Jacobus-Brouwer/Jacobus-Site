@@ -14,11 +14,13 @@ tags:
 
 # Get in Touch
 
+
 Whether you want to talk about yacht design, collaborate on a project, or just say hello — I'd love to hear from you.
 
 ---
 
 ## Find me online
+
 
 - [Email](mailto:henrybrouwer0@gmail.com) 
 - [LinkedIn](https://www.linkedin.com/in/jacobus-brouwer-65a503207/) 
@@ -27,6 +29,7 @@ Whether you want to talk about yacht design, collaborate on a project, or just s
 ---
 
 ## Based in
+
 
 Southampton, UK — studying at Southampton Solent University
 

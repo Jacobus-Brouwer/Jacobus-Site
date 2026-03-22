@@ -6,6 +6,7 @@ tags: []
 ---
 # Jacobus Brouwer
 
+
 <div class="custom-nav">
   <a href="./">About</a>
   <a href="./portfolio">Portfolio</a>
@@ -15,6 +16,7 @@ tags: []
 </div>
 
 ## About
+
 
 I'm Jacobus Brouwer, a first-year **Yacht & Powercraft Design** student at [Southampton Solent University](https://www.solent.ac.uk/).
 
@@ -26,6 +28,7 @@ I'm building this site to share my work, document my learning, and connect with 
 
 ## Current Projects
 
+
 **Model Sailboat Design** — Rating-rule-compliant sailing yacht. Hull hydrostatics complete in Maxsurf, now producing AutoCAD technical drawings. [[portfolio#Model Sailboat Design|View project →]]
 
 **Inclining Experiment** — Stability analysis of a box catamaran, investigating metacentric height and free surface effects. [[portfolio#Inclining Experiment — Box Catamaran|View project →]]
@@ -33,5 +36,6 @@ I'm building this site to share my work, document my learning, and connect with 
 ---
 
 ## Get in touch
+
 
 I'm always happy to talk about yacht design, naval architecture, or potential collaborations. Find me on the [[contact|contact page]] or connect on LinkedIn.
