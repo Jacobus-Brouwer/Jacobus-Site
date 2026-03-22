@@ -74,7 +74,7 @@ body {
   border-left: 2px solid #1B4965;
   border-right: 2px solid #1B4965;
   border-radius: 16px;
-  padding: 2rem 2.5rem;
+  padding: 1rem 0.5rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
   overflow: hidden;
@@ -361,4 +361,8 @@ footer a:hover {
     font-size: 0.78rem;
     letter-spacing: 0.02em;
   }
+}
+.dw-bg-layer {
+  will-change: transform;
+  backface-visibility: hidden;
 }
