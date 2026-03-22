@@ -7,7 +7,7 @@ tags:
   - learning
 draft: false
 ---
-
+[[index|ABOUT]]   [[portfolio|PORTFOLIO]]   [[blog/index|BLOG]]   [[cv|CV]]    [[contact|CONTACT]]
 # Why Stability Matters — Lessons from the Inclining Experiment
 
 One of the first things you (I) learn(ed) in naval architecture is that a beautiful hull means nothing if the vessel can't stay upright. Stability is the foundation everything else is built on — and the inclining experiment is how we prove it.

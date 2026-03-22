@@ -4,13 +4,7 @@ tags:
   - contact
 ---
 
-<div class="custom-nav">
-  [[index|ABOUT]]
-  [[portfolio|PORTFOLIO]]
-  [[blog/index|BLOG]]
-  [[cv|CV]]
-  [[contact|CONTACT]]
-</div>
+[[index|ABOUT]]   [[portfolio|PORTFOLIO]]   [[blog/index|BLOG]]   [[cv|CV]]    [[contact|CONTACT]]
 
 # Get in Touch
 
