@@ -379,3 +379,20 @@ article {
   margin: 0 auto;
   animation: pageFadeIn 0.5s ease both;
 }
+
+/* Graph sidebar - sticky on the right */
+.right.sidebar {
+  position: sticky;
+  top: 2rem;
+  height: fit-content;
+  background: #FFFFFF;
+  border: 1.5px solid #1B4965;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-right: 1rem;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+}
+
+.graph {
+  border: none !important;
+}

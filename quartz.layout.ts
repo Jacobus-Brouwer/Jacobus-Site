@@ -22,11 +22,10 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [],
   left: [
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.Graph()),
   ],
 }
 export const defaultListPageLayout: PageLayout = {
