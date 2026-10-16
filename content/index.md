@@ -24,13 +24,7 @@ My coursework so far covers the early design spiral, from concept and parametric
 
 ## Sailing
 
-I race inshore and offshore, mostly on the bow. In 2026 that included a class win at the Cowes Week Bicentennial and 2nd in IRC 2 in JOG's Cowes–Poole–Cowes. I've sailed over 3,000 nm as a volunteer watch leader on the sail training ship *Excelsior*.
-
-## Get in touch
-
-I'm always happy to talk about yacht design, naval architecture or potential collaborations. Find me
-
----
+I race inshore and offshore, mostly on the bow. In 2026 that included a class win at the Cowes Week Bicentennial and 2nd in IRC 2 in JOG's Cowes–Poole–Cowes. I've sailed over 2,000 nm as a volunteer watch leader on the sail training ship *Excelsior*.
 
 ## Get in touch
 
