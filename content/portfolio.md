@@ -76,7 +76,7 @@ Rating-rule-compliant model sailing yacht — hull design and hydrostatics compl
 | Ballast ratio            | 0.70     |
 | GM                       | 0.232 m  |
 | Rating (L + √SA) / 1.8 = | 70.0     |
-
+![[Q103050818_Model_Yacht_Linesplan_1.2-A3 landscape 1.pdf]]
 ---
 
 ## More projects coming soon

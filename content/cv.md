@@ -12,8 +12,10 @@ tags:
 
 ## Jacobus Brouwer
 
+**MEng Maritime Engineering** 
+University of Southampton · Southampton, UK
 
-**Yacht & Powercraft Design Student**
+**Yacht & Powercraft Design**
 Southampton Solent University · Southampton, UK
 
 ---
@@ -34,12 +36,12 @@ Southampton Solent University · Southampton, UK
 ## Technical Skills
 
 
-| Category | Tools & Skills |
-|---|---|
-| Hull design | Maxsurf Modeler, hull form development, hydrostatic analysis |
-| CAD / drafting | AutoCAD (2D technical drawings), lines plans |
-| Analysis | Excel (engineering calculations, data analysis), inclining experiments |
-| General | Technical report writing, academic research, Harvard referencing |
+| Category       | Tools & Skills                                                                 |
+| -------------- | ------------------------------------------------------------------------------ |
+| Hull design    | Maxsurf Modeler, hull form development, hydrostatic analysis                   |
+| CAD / drafting | AutoCAD (2D technical drawings), lines plans                                   |
+| Analysis       | Excel, Python (engineering calculations, data analysis), inclining experiments |
+| General        | Technical report writing, academic research, Harvard referencing               |
 
 ---
 
@@ -53,7 +55,6 @@ Southampton Solent University · Southampton, UK
 ---
 
 ## Interests
-
 
 - Sailing and boatbuilding
 - Marine design history

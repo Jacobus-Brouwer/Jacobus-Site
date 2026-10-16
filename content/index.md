@@ -11,21 +11,24 @@ tags: []
 
 ## About
 
+I'm Jacobus Brouwer, an MEng Maritime Engineering student at the University of Southampton, having previously studied Yacht & Powercraft Design at Southampton Solent University. I'm interested in performance yacht design, particularly hydrodynamics, stability and computational design optimisation.
 
-I'm Jacobus Brouwer, a first-year **Yacht & Powercraft Design** student at [Southampton Solent University](https://www.solent.ac.uk/).
+My coursework so far covers the early design spiral, from concept and parametric study through hydrostatic analysis to technical drawings, using Maxsurf, AutoCAD and lab model testing.
 
-I design vessels that hopefully make you as happy as they do me — working across the full design spiral from initial concept through hydrostatic analysis to production-ready technical drawings. Currently my toolkit spans **Maxsurf** for hull modelling, **AutoCAD** for technical drafting, and hands-on model testing in the lab.
+## Current projects
 
-I'm building this site to share my work, document my learning, and connect with others in the maritime engineering and yacht design world.
+- **Keel optimisation pipeline:** an open-source tool that generates parameterised keel geometry, analyses it and searches for the best-performing design, starting with a balanced spade keel. [GitHub →](https://github.com/Jacobus-Brouwer/yacht-cfd)
+- **SuMoth Challenge:** member of the University of Southampton team designing and building a foiling Moth.
+- **Firebrand Instruments:** co-founder of a marine electronics project developing modular sensor systems.
+- **Model sailboat design:** rating-rule-compliant model yacht; hull and hydrostatics complete in Maxsurf. [[portfolio|View project →]]
 
----
+## Sailing
 
-## Current Projects
+I race inshore and offshore, mostly on the bow. In 2026 that included a class win at the Cowes Week Bicentennial and 2nd in IRC 2 in JOG's Cowes–Poole–Cowes. I've sailed over 3,000 nm as a volunteer watch leader on the sail training ship *Excelsior*.
 
+## Get in touch
 
-**Model Sailboat Design** — Rating-rule-compliant sailing yacht. Hull hydrostatics complete in Maxsurf, now producing AutoCAD technical drawings. [[portfolio#Model Sailboat Design|View project →]]
-
-**Inclining Experiment** — Stability analysis of a box catamaran, investigating metacentric height and free surface effects. [[portfolio#Inclining Experiment — Box Catamaran|View project →]]
+I'm always happy to talk about yacht design, naval architecture or potential collaborations. Find me
 
 ---
 
