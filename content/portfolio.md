@@ -57,9 +57,9 @@ General arrangement drawing showing Part A (solid ballast) and Part B (solid + w
 
 ## Model Sailboat Design
 
-**In progress** · Maxsurf, AutoCAD
+Maxsurf, AutoCAD
 
-Rating-rule-compliant model sailing yacht — hull design and hydrostatics complete in Maxsurf, now producing AutoCAD technical drawings (Lines Plan, Sail & Keel Plan, Construction Plan). Unfortunately the amount of time left until the end of the year has meant we weren't able to produce and race our designs and instead we are making one design models out of wood. although we get to design the keel and sail plan. 
+Rating-rule-compliant model sailing yacht - hull design and hydrostatics complete in Maxsurf, now producing AutoCAD technical drawings (Lines Plan, Sail & Keel Plan, Construction Plan). Unfortunately the amount of time left until the end of the year has meant we weren't able to produce and race our designs and instead we are making one design models out of wood. although we get to design the keel and sail plan. 
 
 *Images coming soon*
 
